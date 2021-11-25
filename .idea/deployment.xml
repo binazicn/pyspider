@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="root@szds.f3322.net:8027" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@szds.f3322.net:8027 password" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
     <serverData>
-      <paths name="root@szds.f3322.net:8027">
+      <paths name="root@szds.f3322.net:8027 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tencent" local="$PROJECT_DIR$" web="http://" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ssh">
         <serverdata>
           <mappings>
             <mapping deploy="/tencent" local="$PROJECT_DIR$" web="/" />
